@@ -1,0 +1,26 @@
+{
+  "name": "liri-node-app",
+  "version": "0.0.1",
+  "description": "LiriApp",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "node-spotify-api": "^1.0.7",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tek4you/liri-node-app.git"
+  },
+  "author": "Frank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tek4you/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/tek4you/liri-node-app#readme"
+}
